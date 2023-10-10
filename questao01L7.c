@@ -1,3 +1,7 @@
+//Leia e armazene num vetor de 10 posições o nome dos alunos aprovados no vestibular para Ciência da Computação em 2007/1.
+//A seguir, leia um nome de entrada e verifique se este aluno consta na listagem dos aprovados e mostre sua classificação (ordem de aprovação, representada pelo índice do vetor +1).
+//Caso o nome informado não exista na lista dos aprovados, mostre uma mensagem ‘Nome informado não consta na lista dos aprovados’.
+
 #include <stdio.h>
 #include <string.h>
 
