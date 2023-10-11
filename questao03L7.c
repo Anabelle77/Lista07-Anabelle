@@ -1,3 +1,5 @@
+//3. Faça um programa que leia uma string digitada pelo usuário (máximo 20 caracteres) e imprima na tela o número de vogais existente nesta string.
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
